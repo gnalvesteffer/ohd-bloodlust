@@ -1,8 +1,9 @@
 {
 	"FileVersion": 1,
+	"ID": 3119780274,
 	"Title": "Xorberax's BloodLust",
 	"Description": "Adds blood effects when units are hit.",
-	"PreviewImgFilename": "Resources/BloodLustOHD.png",
+	"PreviewImgFilename": "Resources/BloodLustOHD.jpg",
 	"Changenote": "",
 	"Tags": [
 		"Ruleset",
