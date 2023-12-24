@@ -4,7 +4,7 @@
 	"Title": "Xorberax's BloodLust",
 	"Description": "Adds blood effects when units are hit.",
 	"PreviewImgFilename": "Resources/BloodLustOHD.jpg",
-	"Changenote": "",
+	"Changenote": "- Added blood drips\r\n- Added more splatter textures\r\n- Fixed issue where explosions were resulting in splatters appearing at the explosion position (disabled explosion-caused blood for now)",
 	"Tags": [
 		"Ruleset",
 		"Gamemode",
