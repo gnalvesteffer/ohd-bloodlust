@@ -2,9 +2,9 @@
 	"FileVersion": 1,
 	"ID": 3119780274,
 	"Title": "Xorberax's BloodLust",
-	"Description": "Adds blood effects when units are hit.",
+	"Description": "Adds blood effects. For server hosts: `?Game=XorberaxBloodLust/Core/GM_HDAdvanceAndSecure_BloodLust.GM_HDAdvanceAndSecure_BloodLust_C`",
 	"PreviewImgFilename": "Resources/BloodLustOHD.jpg",
-	"Changenote": "Fixed multiplayer compatibility issues.\r\n*Unfortunately due to a bug with the SDK, the accuracy of the blood splatters placement suffered to make the mod multiplayer-compatible, since I am unable to reliably get the projectile direction when a unit is hit.*",
+	"Changenote": "- Added blood pooling\r\n- Tweaked blood material\r\n- Multiplayer fixes",
 	"Tags": [
 		"Ruleset",
 		"Gamemode",
