@@ -1,0 +1,15 @@
+Adds blood effects.
+
+Currently features:
+- Blood splatters that stick to surfaces
+- Blood drips
+- Blood pools
+- Bleeding
+
+Playable via the "BloodLust (AAS)" gamemode.
+
+For server hosts: ?Game=XorberaxBloodLust/Core/GM_HDAdvanceAndSecure_BloodLust.GM_HDAdvanceAndSecure_BloodLust_C
+
+If you can spare a few bucks, feel free to donate via PayPal or Patreon, it's greatly appreciated:
+- https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=923HVE4MUDRSA&source=url
+- https://www.patreon.com/xorberax

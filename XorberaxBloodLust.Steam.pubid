@@ -2,9 +2,9 @@
 	"FileVersion": 1,
 	"ID": 3119780274,
 	"Title": "Xorberax's BloodLust",
-	"Description": "Adds blood effects. For server hosts: `?Game=XorberaxBloodLust/Core/GM_HDAdvanceAndSecure_BloodLust.GM_HDAdvanceAndSecure_BloodLust_C`",
+	"Description": "Adds blood effects.",
 	"PreviewImgFilename": "Resources/BloodLustOHD.jpg",
-	"Changenote": "- Tweaked blood materials (added normal maps -- also animated normal map for blood pools)",
+	"Changenote": "- Added bleeding\r\n- Tweaked blood material",
 	"Tags": [
 		"Ruleset",
 		"Gamemode",
