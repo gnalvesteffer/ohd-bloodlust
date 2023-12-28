@@ -4,7 +4,7 @@
 	"Title": "Xorberax's BloodLust",
 	"Description": "Adds blood effects.",
 	"PreviewImgFilename": "Resources/BloodLustOHD.jpg",
-	"Changenote": "- Added bleeding\r\n- Tweaked blood material",
+	"Changenote": "- Tweak blood material (should look less bright orange on certain maps/lighting conditions now)\r\n- Blood now spawns for explosion-caused damage\r\n- Increased blood pool duration to 3 minutes",
 	"Tags": [
 		"Ruleset",
 		"Gamemode",
