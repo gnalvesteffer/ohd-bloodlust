@@ -1,6 +1,7 @@
 Adds blood effects.
 
 Currently features:
+- Singleplayer & Multiplayer support
 - Blood splatters that stick to surfaces
 - Blood drips
 - Blood pools

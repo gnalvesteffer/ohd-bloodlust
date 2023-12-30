@@ -4,7 +4,7 @@
 	"Title": "Xorberax's BloodLust",
 	"Description": "Adds blood effects.",
 	"PreviewImgFilename": "Resources/BloodLustOHD.jpg",
-	"Changenote": "- Fix singleplayer compatibility",
+	"Changenote": "- Renamed gamemode to BloodLust (AAS)",
 	"Tags": [
 		"Ruleset",
 		"Gamemode",
