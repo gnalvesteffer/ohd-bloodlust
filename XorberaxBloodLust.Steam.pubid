@@ -4,7 +4,7 @@
 	"Title": "Xorberax's BloodLust",
 	"Description": "Adds blood effects.",
 	"PreviewImgFilename": "Resources/BloodLustOHD.jpg",
-	"Changenote": "- Renamed gamemode to BloodLust (AAS)",
+	"Changenote": "- Tweak blood material (a bit brighter and more red)\r\n- Rename gamemode classname to \"/XorberaxBloodLust/Core/BP_HDGame_BloodLust_AAS.BP_HDGame_BloodLust_AAS_C\"",
 	"Tags": [
 		"Ruleset",
 		"Gamemode",
