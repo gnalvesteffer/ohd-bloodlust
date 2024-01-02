@@ -9,7 +9,7 @@ Currently features:
 
 Playable via the "BloodLust (AAS)" gamemode.
 
-Gamemode name server hosts: 
+Gamemode name for server hosts:
 /XorberaxBloodLust/Core/BP_HDGame_BloodLust_AAS.BP_HDGame_BloodLust_AAS_C
 
 If you can spare a few bucks, feel free to donate via PayPal or Patreon, it's greatly appreciated:
